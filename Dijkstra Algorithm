@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-#define INFINITY 9999
+#define INFINITY 9999 
 #define MAX 100
  
 void dijikstra(int G[MAX][MAX], int n, int startnode);
