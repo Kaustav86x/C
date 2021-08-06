@@ -45,4 +45,4 @@ int main()
     printf("\nFilled the bag with objects worth %.2f Rs.\n", total_profit);
     return 0;
 }
-
+ 
