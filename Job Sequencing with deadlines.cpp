@@ -82,4 +82,4 @@ void JobSequencingWithDeadline(Job jobs[], int n) {
   }
   printf("\nMax Profit: %d\n", maxprofit);
 }
-
+ 
